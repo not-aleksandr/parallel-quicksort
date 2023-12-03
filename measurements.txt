@@ -1,0 +1,142 @@
+==========
+CPU count:     4
+==========
+Warmup iterations:     3
+Sort with type:     SEQUENTIAL_SORT
+Iteration 1:     9742 millis
+Iteration 2:     9755 millis
+Iteration 3:     9748 millis
+Avg time:     9748.333333 millis
+Sort with type:     PARALLEL_SORT
+Block size:     1000
+Iteration 1:     43065 millis
+Iteration 2:     42233 millis
+Iteration 3:     41982 millis
+Avg time:     42426.666667 millis
+Block size:     10000
+Iteration 1:     35114 millis
+Iteration 2:     34941 millis
+Iteration 3:     35219 millis
+Avg time:     35091.333333 millis
+Block size:     100000
+Iteration 1:     27635 millis
+Iteration 2:     28038 millis
+Iteration 3:     27693 millis
+Avg time:     27788.666667 millis
+Block size:     1000000
+Iteration 1:     20260 millis
+Iteration 2:     20233 millis
+Iteration 3:     20888 millis
+Avg time:     20460.333333 millis
+Block size:     10000000
+Iteration 1:     12365 millis
+Iteration 2:     12387 millis
+Iteration 3:     13663 millis
+Avg time:     12805.000000 millis
+Sort with type:     PARALLEL_SORT_INPLACE
+Block size:     1000
+Iteration 1:     2967 millis
+Iteration 2:     3015 millis
+Iteration 3:     2859 millis
+Avg time:     2947.000000 millis
+Block size:     10000
+Iteration 1:     3410 millis
+Iteration 2:     3465 millis
+Iteration 3:     2871 millis
+Avg time:     3248.666667 millis
+Block size:     100000
+Iteration 1:     2752 millis
+Iteration 2:     3456 millis
+Iteration 3:     3145 millis
+Avg time:     3117.666667 millis
+Block size:     1000000
+Iteration 1:     2897 millis
+Iteration 2:     3506 millis
+Iteration 3:     3550 millis
+Avg time:     3317.666667 millis
+Block size:     10000000
+Iteration 1:     3971 millis
+Iteration 2:     3977 millis
+Iteration 3:     3959 millis
+Avg time:     3969.000000 millis
+==========
+Measure iterations:     5
+Sort with type:     SEQUENTIAL_SORT
+Iteration 1:     10094 millis
+Iteration 2:     10018 millis
+Iteration 3:     9959 millis
+Iteration 4:     9942 millis
+Iteration 5:     10165 millis
+Avg time:     10035.600000 millis
+Sort with type:     PARALLEL_SORT
+Block size:     1000
+Iteration 1:     42016 millis
+Iteration 2:     41728 millis
+Iteration 3:     43186 millis
+Iteration 4:     43953 millis
+Iteration 5:     46219 millis
+Avg time:     43420.400000 millis
+Block size:     10000
+Iteration 1:     38297 millis
+Iteration 2:     37838 millis
+Iteration 3:     38511 millis
+Iteration 4:     38197 millis
+Iteration 5:     38233 millis
+Avg time:     38215.200000 millis
+Block size:     100000
+Iteration 1:     30890 millis
+Iteration 2:     29899 millis
+Iteration 3:     30066 millis
+Iteration 4:     29619 millis
+Iteration 5:     29897 millis
+Avg time:     30074.200000 millis
+Block size:     1000000
+Iteration 1:     21681 millis
+Iteration 2:     21470 millis
+Iteration 3:     21767 millis
+Iteration 4:     21972 millis
+Iteration 5:     23306 millis
+Avg time:     22039.200000 millis
+Block size:     10000000
+Iteration 1:     14094 millis
+Iteration 2:     12098 millis
+Iteration 3:     12990 millis
+Iteration 4:     12004 millis
+Iteration 5:     12972 millis
+Avg time:     12831.600000 millis
+Sort with type:     PARALLEL_SORT_INPLACE
+Block size:     1000
+Iteration 1:     2778 millis
+Iteration 2:     3141 millis
+Iteration 3:     3411 millis
+Iteration 4:     2918 millis
+Iteration 5:     2916 millis
+Avg time:     3032.800000 millis
+Block size:     10000
+Iteration 1:     2761 millis
+Iteration 2:     2987 millis
+Iteration 3:     2882 millis
+Iteration 4:     2880 millis
+Iteration 5:     2893 millis
+Avg time:     2880.600000 millis
+Block size:     100000
+Iteration 1:     3461 millis
+Iteration 2:     2856 millis
+Iteration 3:     2875 millis
+Iteration 4:     3469 millis
+Iteration 5:     2994 millis
+Avg time:     3131.000000 millis
+Block size:     1000000
+Iteration 1:     2782 millis
+Iteration 2:     3322 millis
+Iteration 3:     2775 millis
+Iteration 4:     3313 millis
+Iteration 5:     3602 millis
+Avg time:     3158.800000 millis
+Block size:     10000000
+Iteration 1:     3852 millis
+Iteration 2:     3966 millis
+Iteration 3:     3795 millis
+Iteration 4:     3827 millis
+Iteration 5:     3969 millis
+Avg time:     3881.800000 millis
